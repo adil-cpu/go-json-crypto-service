@@ -1,0 +1,6 @@
+.env
+data*.json
+.vscode
+.idea
+.git
+*.log

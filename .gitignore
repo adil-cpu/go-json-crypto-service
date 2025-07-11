@@ -1,0 +1,22 @@
+# Секреты
+.env
+
+# Временные файлы проекта
+data.json
+data.encrypted
+data_decrypted.json
+
+# Логи, дампы и прочий мусор
+*.log
+*.out
+*.swp
+*.tmp
+
+# Go бинарники
+*.exe
+*.test
+
+# IDE и редакторы
+.vscode/
+.idea/
+.DS_Store
